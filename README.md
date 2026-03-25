@@ -36,7 +36,7 @@ The plugin authenticates using standard WordPress REST API credentials, making i
 ---
 
 ## Installation
-1. Download the plugin ZIP from [GitHub](https://github.com/yourusername/g-web-ai-drafts)  
+1. Download the plugin ZIP from [GitHub](https://github.com/GWeb2015/G-Web-AI-Drafts)  
 2. Upload it to `/wp-content/plugins/` on your WordPress site  
 3. Activate the plugin through the “Plugins” menu in WordPress  
 4. Use the REST API endpoints to create draft posts  
